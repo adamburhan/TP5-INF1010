@@ -28,6 +28,7 @@ std::string getGenreString(Film::Genre genre)
         return it->second;
     }
     return "Erreur";
+//modif ghali
 }
 
 /// Affiche les informations d'un film à la sortie du stream donné.
