@@ -56,7 +56,7 @@ namespace Tests
         totalPointsAll += testFoncteurs();
         totalPointsAll += testGestionnaireFilms();
         totalPointsAll += testAnalyseurLogs();
-
+        // modif git test
         std::cout << "\nTotal pour tous les tests: " << totalPointsAll << '/' << maxPointsAll << '\n';
     }
 
