@@ -27,7 +27,7 @@ std::string getGenreString(Film::Genre genre)
     {
         return it->second;
     }
-    return "Erreur";
+    return "Erreu1";
 //modif ghali
 }
 
